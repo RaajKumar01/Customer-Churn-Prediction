@@ -12,6 +12,7 @@ This is a **Supervised Learning** classification problem where the target variab
 - Label encoding of categorical variables
 - SMOTE oversampling
 - Train-test split
+- Hyperparameter tuning using GridSearchCV
 - Model evaluation: Accuracy, Confusion Matrix, Precision, Recall, F1-score
 - Model and encoder saved as `.pkl` files
 - Custom input prediction using saved model
